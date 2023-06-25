@@ -1,2 +1,2 @@
 <h1>HTML CSS in Depth</h1>
-<img src="VersionControl.png" alt="">
+<img src="HTMLCSSinDepth.png" alt="">
